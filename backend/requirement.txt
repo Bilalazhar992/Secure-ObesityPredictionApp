@@ -1,0 +1,9 @@
+Flask
+PyJWT
+Werkzeug
+Flask-CORS
+Flask-SQLAlchemy
+joblib
+lightgbm
+numpy
+scikit-learn
